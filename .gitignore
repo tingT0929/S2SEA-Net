@@ -3,7 +3,7 @@ data/
 logs/
 
 .ipynb_checkpoints
-/*.ipynb
+*.ipynb
 
 
 __pycache__/
