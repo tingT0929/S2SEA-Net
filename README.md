@@ -17,7 +17,7 @@
 - Clone this repo.
 
   ```shell
-  git clone ...
+  git clone https://github.com/tingT0929/Attention-Net.git
   ```
 
 
