@@ -1,0 +1,18 @@
+network: 'CoviVarAttn'
+
+data:
+  pred_steps: 30
+
+model:
+  embed_dim: 64
+  latent_dim: 256
+  hidden_size: 64
+  temporature: 0.1
+
+train:
+  batch_size: 128
+  lr: 0.1
+  epochs: 200
+
+optim:
+  optimizer: 'SGD'
