@@ -1,5 +1,4 @@
-![image](https://github.com/tingT0929/S2SEA-Net/assets/70276407/d83d74ca-2ad0-4cdd-b93c-82adf22978f1)## The impact of spatio-temporal travel distance on epidemics using an interpretable attention-based Sequence-to-sequence model
-
+## The impact of spatio-temporal travel distance on epidemics using an interpretable attention-based Sequence-to-sequence model
 
 ![structure](./figure/structure.png)
 
