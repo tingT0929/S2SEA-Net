@@ -1,4 +1,4 @@
-## The impact of spatio-temporal travel distance on epidemics using an interpretable attention-based Sequence-to-sequence model
+## The impact of spatio-temporal travel distance on epidemics using an interpretable attention-based sequence-to-sequence model
 
 ![structure](./figure/structure.png)
 
